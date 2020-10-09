@@ -15,3 +15,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://127.0.0.1:8761/eureka/
+
+test:
+  message: this is test message v1.0 !!!!
