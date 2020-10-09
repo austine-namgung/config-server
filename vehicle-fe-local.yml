@@ -1,4 +1,9 @@
+
+server:
+  port: 8009
+
 spring:
+  profiles: local
  
 api:
   vehicle: 
